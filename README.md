@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This CLI is a simple go project to manage personal tasks or track project.
+This CLI is a simple go project to manage personal tasks or track projects.
 
 ## Features
 
